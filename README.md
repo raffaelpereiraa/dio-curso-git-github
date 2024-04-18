@@ -78,7 +78,7 @@ Introduzir ao versionamento de código com Git e GitHub.
         <span><b>Rafael Pereira</b></span>
       </a>
       <br>
-      <span>Desenvolvedora Front-end</span>
+      <span>Desenvolvedor em andamento</span>
     </td>
   </tr>
 </table>
